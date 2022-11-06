@@ -1,0 +1,52 @@
+To clone a repo-
+git clone https://......
+
+Enter the repo-
+cd Reponame/
+
+Enter your username
+git config user.name "Zara"
+commit  and click on tick
+pull
+   cd frontend 
+   npm i
+push 
+
+
+
+
+Enter your email
+git config user.email "iqbalzara05@gmail.com" 
+
+To know the git status-
+git status
+
+Dont work on the main branch 
+To add a new branch-
+git branch branchname 
+
+To check what all branches are available-
+git branch
+
+To switch to the other branch-
+git checkout branchname
+
+After creating a new file, to add it to the repo-
+git add Filename.html
+
+Add comments -
+git commit -m "added file"
+
+To push the file-
+git push origin main
+
+
+
+
+
+To check and switch to a branch created by someone else-
+git checkout branchname 
+
+To get changes refer on your screen-
+git fetch
+git merge origin/branchname

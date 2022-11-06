@@ -1,0 +1,47 @@
+SoBus
+1. What and how is the data collected?
+Students studying in rural areas fill the survey form. [Main]
+Small businesses all over india
+
+2. What is the basis of survey?
+
+
+3. Who is the end user?
+Ans- Sobus employees + general public
+
+They function as an incubation center. They give funding/mentoring to local people to start businesses.
+
+Q- You mentioned about data related to stakeholders, can you describe how that is different from the student data?
+Ans- Any type of data 
+
+4. Do we include the responses form or not?
+Ans- If you want to. Preferably not.
+
+5. Is the Data visualization specific to any parameters?
+Ans- Use any parameter but specificaaly like student name/location/demographic
+
+6. Is there a regional language requirement?
+Ans- No
+
+7. Is the data demographic?
+Ans- Yes
+
+8. How is future data handled? Is the process being automated or not. [Scaling the application]
+
+9. How are the videos/photos collected? link/drive?
+Ans- They collect using recorded sessions 
+
+10. Is the data collected scanned or saved on an excel sheets?
+Ans- It is saved on excel sheets. The data has to be categorized and cleaned.
+
+-Structure and clean the data.
+-Categorize and Visualize the data 
+-Blog page to display Pictures/  Videos/ Testimonials 
+-Page to search for certain contacts demographically or skill wise 
+-recommendation system for the searches 
+-centralized database for stakeholders(all type of data)
+
+
+
+
+
